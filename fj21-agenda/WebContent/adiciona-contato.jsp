@@ -6,7 +6,7 @@
 <head>
 	<link href="css/jquery.css" rel="stylesheet">
 	<script src="js/jquery.js"></script>
-	<script type="js/jquery-ui.js"></script>
+	<script src="js/jquery-ui.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Adiciona Contatos</title>
 </head>
@@ -17,7 +17,7 @@
 	<form action="adicionaContato">
 		Nome: <input type="text" name="nome" /><br />
 		E-mail: <input type="text" name="email" /><br />
-		EndereÃ§o: <input type="text" name="endereco" /><br />
+		Endereço: <input type="text" name="endereco" /><br />
 		Data Nascimento: <caelum:campoData id="dataNascimento" /><br />
 		<br />
 		
